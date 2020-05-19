@@ -1,0 +1,25 @@
+.strikethrough {
+    text-decoration: line-through;
+  }
+
+  td{
+    background-color:wheat;
+    padding:5px;
+  }
+
+  th{
+    background: brown;
+    color: white;
+    padding:5px;
+  }
+  /* button{
+    margin-left: 200px;
+    
+  } */
+h1{
+  text-align: center;
+}
+table{
+  margin-left: 60px;
+  margin-right: 60px;
+}
