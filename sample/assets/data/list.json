@@ -1,0 +1,27 @@
+[
+    {
+        "label": "Todo app",
+        "done": false,
+        "priority": 3
+    },
+    {
+        "label": "pay mobile bill",
+        "done":true,
+        "priority": 1
+    },
+    {
+        "label": "clean house",
+        "done": false,
+        "priority": 4
+    },
+    {
+        "label": "Fix the Bulb",
+        "done": false,
+        "priority": 3
+    },
+    {
+        "label": "task status",
+        "done": false,
+        "priority": 5
+    }
+]
